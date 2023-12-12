@@ -1,6 +1,6 @@
-<img align='center' width='1020' src='https://img.freepik.com/premium-photo/hacker-hoodie-is-sitting-chair-looking-city-night-generative-ai_38475934.htm#query=Hood%20programer&position=16&from_view=search&track=ais&uuid=1f836ccd-9133-4221-8c15-8d02700d6691'>
+<img align='center' width='1020' src='https://www.freepik.com/premium-photo/hacker-hoodie-is-sitting-chair-looking-city-night-generative-ai_38475934.htm#query=Hood%20programer&position=16&from_view=search&track=ais&uuid=1f836ccd-9133-4221-8c15-8d02700d6691'>
 
-<!--### Hi there 👋
+<!--### Hi there 🙋🏻‍♂️
 
 
 **Donphili/Don-p.tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,15 +9,15 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently ... A student of the ALX SE Program
 - 🌱 I’m currently being trained to be a seasoned software engineer
-- 👯 I’m looking to collaborate on Projects related to c, Python, Js, SQL.
-- 🤔 I’m looking for help with Internships, job openings, oppourtunities that will further contibute to my growth as a software engineer
+- 🤝 I’m looking to collaborate on Projects related to c, Python, Js, SQL.
+- 🙌👐 I’m looking for help with Internships, job openings, oppourtunities that will further contibute to my growth as a software engineer
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 -
-- 😄 Prefferred name: Don
+- 😎 Prefferred name: Don
 <!-- ⚡ Fun fact: …Never give up and don't compete with anyone. Bef yourself.
 -->
-<h1 align="center">Hi 👋, I'm Donphilip</h1>
+<h1 align="center">Hi 🙋🏻‍♂️, I'm Donphilip</h1>
 <h3 align="center">A Python Backend SE</h3>
 
 <!--<img align='center' width='1020' src='https://img.freepik.com/free-vector/teenager-boy-bedroom-interior-computers-desk_107791-2738.jpg?w=826&t=st=1665971325~exp=1665971925~hmac=ec0dfa2d7e5eab170131ade718501cc66f0eeb07495ca493d38c092b518cb8a9'>
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <!-- 🌱 I’m currently increasing more **building**-->
 
-- 👯 I’m looking to collaborate on **Python (Flask, django) Projects**
+- 🤝 I’m looking to collaborate on **Python (Flask, django) Projects**
 
 <!-- 🤝 I’m looking for more expereince **With projects and internship opportunities in being a better SE** -->
 
